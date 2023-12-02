@@ -467,6 +467,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: johnwick
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: f77643489548ce14ca065bafbf7c259b, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: acfe8dbe2629b1c4ab4b07974d832eaa, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
